@@ -44,7 +44,8 @@ func main() {
 		return
 	}
 
-	banner := strings.Split(string(data), "\n")
+	clean := strings.ReplaceAll(string(data), "\r", "")
+	banner := strings.Split(clean, "\n")
 
 	output := Render(input, banner, color, substring)
 
