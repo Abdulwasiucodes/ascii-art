@@ -211,7 +211,3 @@ Outputs colored ASCII art in the terminal.
 This project is for educational purposes as part of the Learn2Earn program.
 
 ---
-
-If you want next:
-👉 I can turn this into a **perfect GitHub repo (badges, preview images, stars-ready)**
-👉 Or help you write a 
